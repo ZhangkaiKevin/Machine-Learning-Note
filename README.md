@@ -6,5 +6,5 @@ Recently, I am watching Andrew's Machine Learning video class. It is queit inter
 
 
 
-[1]: ./2018-01/What is ML.md 'What is ML'
-[2]: ./2018-01/Supervised & unsupervised learning.md 'Supervised & unsupervised learning'
+[1]: ./2018-01/What-is-ML.md 'What is ML'
+[2]: ./2018-01/Supervised-&-unsupervised-earning.md 'Supervised & unsupervised learning'
